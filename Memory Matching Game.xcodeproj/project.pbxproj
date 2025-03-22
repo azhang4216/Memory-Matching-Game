@@ -29,22 +29,9 @@
 		BB04331F2D8015F30006C36E /* Memory Matching GameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Memory Matching GameUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		BB8E8AF12D8B7C32004D29D4 /* Exceptions for "Memory Matching Game" folder in "Memory Matching Game" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Untitled.swift,
-			);
-			target = BB0433042D8015F10006C36E /* Memory Matching Game */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		BB0433072D8015F10006C36E /* Memory Matching Game */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				BB8E8AF12D8B7C32004D29D4 /* Exceptions for "Memory Matching Game" folder in "Memory Matching Game" target */,
-			);
 			path = "Memory Matching Game";
 			sourceTree = "<group>";
 		};
